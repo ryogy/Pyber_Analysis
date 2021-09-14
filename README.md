@@ -5,13 +5,13 @@ The purpose of this analysis was to look into the relationship between total wee
 
 ## Results
 
-<img src="/Users/robertyokabaskas/Desktop/Coursework/Pyber_Analysis/Resources/pyber_dataframe.png" alt="pyber_dataframe" style="zoom:150%;" />
+<img src="https://github.com/ryogy/Pyber_Analysis/blob/main/Resources/pyber_dataframe.png" alt="pyber_dataframe" style="zoom:150%;" />
 
 ###### Figure 1: Dataframe of Key Pyber Metrics based on City Type
 
 In the DataFrame above, the data shows a clear relationship between population density and total rides.  The total rides of a city skyrocket the more urbanized that city is.  The urban environment allows Pyber to be a more efficient marketplace by grouping rides together, as well as just having increased driver supply and consumer demand.  The Suburban city environment shows some promise with total fares close to $20,000.  However, the Suburban and Rural city environments have much higher fares than Urban environments do.  This could be because the average length of ride is longer, or because the marketplace in these environments is less efficient most likely due to a driver supply bottleneck.  No clear conclusion can be made in regards to this as the data for total rides requested is not available.
 
-<img src="/Users/robertyokabaskas/Desktop/Coursework/Pyber_Analysis/Resources/Pyber_fare_summary.png" alt="pyber_dataframe" style="zoom:100%;" />
+<img src="https://github.com/ryogy/Pyber_Analysis/blob/main/analysis/PyBer_fare_summary.png" alt="pyber_dataframe" style="zoom:100%;" />
 
 ###### Figure 2: Total Fare by City Type (Weekly)
 
